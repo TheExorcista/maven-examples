@@ -1,4 +1,4 @@
-/**
+/***
  * @author Petri Kainulainen
  */
 public class FizzBuzz {
